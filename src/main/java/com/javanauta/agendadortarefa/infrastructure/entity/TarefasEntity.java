@@ -14,7 +14,7 @@ import java.time.LocalDateTime;
 @NoArgsConstructor
 @Builder
 
-//@Document(collection = "tarefas")
+//@Document(collection = "tarefa")
 @Document("tarefas")
 public class TarefasEntity {
 
